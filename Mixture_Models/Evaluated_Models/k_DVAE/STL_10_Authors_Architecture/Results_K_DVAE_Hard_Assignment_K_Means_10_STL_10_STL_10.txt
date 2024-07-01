@@ -1,0 +1,32 @@
+
+ Final Training Loss: 488479.0451660156
+
+ Final Test Loss: 196475.3909375
+
+
+ Posterior Results:
+
+
+ Accuracy (Posterior):  0.174
+
+ NMI (Posterior):  0.044
+
+ ARI (Posterior):  0.023
+
+ Average Accuracy (Posterior): 0.191111
+
+ STD Accuracy (Posterior): 0.02079092203342603
+
+
+ K_Means Results:
+
+
+ Accuracy (K_Means):  0.893
+
+ NMI (K_Means):  0.807
+
+ ARI (K_Means):  0.782
+
+ Average Accuracy (K_Means): 0.8942233599999999
+
+ STD Accuracy (K_Means): 0.023669196486370215

@@ -1,0 +1,32 @@
+
+ Final Training Loss: 195849.333203125
+
+ Final Test Loss: 196672.9346875
+
+
+ Posterior Results:
+
+
+ Accuracy (Posterior):  0.579
+
+ NMI (Posterior):  0.606
+
+ ARI (Posterior):  0.466
+
+ Average Accuracy (Posterior): 0.5677517333333334
+
+ STD Accuracy (Posterior): 0.025555514805919204
+
+
+ GMM Results:
+
+
+ Accuracy (GMM):  0.892
+
+ NMI (GMM):  0.817
+
+ ARI (GMM):  0.784
+
+ Average Accuracy (GMM): 0.8896250666666666
+
+ STD Accuracy (GMM): 0.021651272749245533
